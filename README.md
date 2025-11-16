@@ -47,6 +47,7 @@ A fully automated **Telegram Chatbot** built using **n8n workflow automation**, 
 
 - Workflow JSON export  
 - Screenshot of the workflow  
+<img width="1918" height="840" alt="Screenshot 2025-11-16 013030" src="https://github.com/user-attachments/assets/8f1259ad-c1b2-449c-81c4-3a35bdd12e72" />
 
 ---
 
