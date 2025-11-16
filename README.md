@@ -18,6 +18,9 @@ A fully automated **Telegram Chatbot** built using **n8n workflow automation**, 
 
 ## 🧠 Workflow Architecture
 
+### Workflow Diagram
+![Workflow Screenshot](images/Telegram_chatbot.png)
+
 ### 1. Multi-User Chatbot
 - **Telegram Trigger** → Captures user messages  
 - **AI Agent → Gemini LLM** → Generates AI responses  
@@ -46,9 +49,9 @@ A fully automated **Telegram Chatbot** built using **n8n workflow automation**, 
 ## 📁 Repository Includes
 
 - Workflow JSON export  
-- Screenshots of the workflow  
+- Screenshot of the workflow  
 
-
+---
 
 ## 💡 Use Cases
 
@@ -58,3 +61,8 @@ A fully automated **Telegram Chatbot** built using **n8n workflow automation**, 
 - Private and secure chatbots  
 - AI-driven conversational tools  
 
+---
+
+## 🏷️ Hashtags
+
+`#n8n` `#TelegramBot` `#AI` `#GoogleGemini` `#Automation` `#LLM` `#ChatbotDevelopment` `#WorkflowAutomation` `#NoCode` `#Innovation` `#TechProjects`
