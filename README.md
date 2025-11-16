@@ -48,7 +48,6 @@ A fully automated **Telegram Chatbot** built using **n8n workflow automation**, 
 - Workflow JSON export  
 - Screenshots of the workflow  
 
----![Workflow Screenshot](images/"C:\Users\CHARITHA-V\Desktop\Telegram chatbot\Telegram chatbot.png")
 
 
 ## 💡 Use Cases
